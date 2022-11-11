@@ -74,7 +74,7 @@ const UseEffectExample1 = () => {
             <Card style={{ width: "18rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.scdn.co/image/ab67616d0000b273f7617d28f765e71e7687dfcc"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg"
               />
               <Card.Body>
                 <Card.Title>{substringTitle}</Card.Title>
